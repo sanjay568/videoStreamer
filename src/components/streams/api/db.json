@@ -1,0 +1,22 @@
+{
+  "streams": [
+    {
+      "title": "First Stream",
+      "description": "First Stream",
+      "userId": "104261072852361855316",
+      "id": 0
+    },
+    {
+      "title": "This a created by me",
+      "description": "This stream created by me",
+      "userId": "104261072852361855317",
+      "id": 1
+    },
+    {
+      "title": "Java",
+      "description": "Java Stream",
+      "userId": "104261072852361855316",
+      "id": 2
+    }
+  ]
+}
